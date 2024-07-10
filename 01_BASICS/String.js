@@ -32,3 +32,8 @@ console.log(url.includes("teacher"));
 
 const numbs = "Hello_SDE_SWE";
 console.log(numbs.split("_"));
+
+const ns ="        Spasari";
+console.log(ns);
+const n = ns.trim();
+console.log(n);
