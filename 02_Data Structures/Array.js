@@ -2,7 +2,6 @@ const myArr = [0, 1, 2, 3, 4, 5];
 // console.log(myArr[0]);
 
 // A shallow copy is a process of creating a new collection (such as an object or an array) that shares the structure with the original collection.
-
 // A deep copy, on the other hand, creates a completely independent copy of the original collection.
 
 const myHeros = ["Virat Kohli", "MS Dhoni"];
