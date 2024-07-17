@@ -24,16 +24,16 @@ const Jsuser = {
 Jsuser.email = "Xyz@gmail.com";
 // Object.freeze(Jsuser);
 Jsuser.email = "CCCCC@gmail.com";
-console.log(Jsuser)
+console.log(Jsuser);
 
-Jsuser.greeting = function()
-{
-    console.log("Hellooooo JS User !!");
-}
-Jsuser.greeting2 = function()
-{
-    console.log(`Hellooooo JS User !!, ${this.name}`);
-}
+Jsuser.greeting = function () {
+  console.log("Hellooooo JS User !!");
+};
+
+Jsuser.greeting2 = function () {
+  console.log(`Hellooooo JS User !!, ${this.name}`);
+};
+
 console.log(Jsuser.greeting());
 console.log(Jsuser.greeting2());
 Jsuser.greeting();

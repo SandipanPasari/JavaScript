@@ -1,6 +1,6 @@
 // const tinderUser = new Object() // Singleton object
 const tinderUser = {};
-tinderUser.id = "12485";
+tinderUser.id = "1245465485";
 tinderUser.name = "Sandi";
 tinderUser.isloggedin = false;
 

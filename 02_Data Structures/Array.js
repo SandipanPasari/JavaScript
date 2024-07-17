@@ -11,8 +11,8 @@ const myHeros = ["Virat Kohli", "MS Dhoni"];
 // myArr.push(2);
 // myArr.pop();
 
-// myArr.unshift(9);
-// myArr.shift();
+myArr.unshift(9);
+myArr.shift();
 
 // console.log(myArr.includes(9));
 // console.log(myArr.indexOf(9));
@@ -20,14 +20,14 @@ const myHeros = ["Virat Kohli", "MS Dhoni"];
 
 const newArr = myArr.join();
 
-// console.log(myArr);
+console.log(myArr);
 // console.log(newArr);
 
-console.log("A ", myArr);
-const myn1 = myArr.slice(1, 3);
-console.log(myn1);
-console.log("B ", myArr);
+// console.log("A ", myArr);
+// const myn1 = myArr.slice(1, 3);
+// console.log(myn1);
+// console.log("B ", myArr);
 
-const myn2 = myArr.splice(1, 3);
-console.log("C ", myArr);
-console.log(myn2);
+// const myn2 = myArr.splice(1, 3);
+// console.log("C ", myArr);
+// console.log(myn2);
