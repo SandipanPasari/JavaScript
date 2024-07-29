@@ -32,5 +32,11 @@ const chai = () => {
 const addTwo = (num1, num2) => num1 + num2;
 console.log(addTwo(8, 9));
 
-const addTwo2 = (num1, num2) => (num1 + num2);
+const addTwo2 = (num1, num2) => num1 + num2;
 console.log(addTwo(8, 9));
+
+const multiplyTwo = (num1, num2) => num1 * num2;
+console.log(multiplyTwo(1, 0));
+
+const divideTwo = (num1, num2) => num1 / num2;
+console.log(divideTwo(5 / 4));

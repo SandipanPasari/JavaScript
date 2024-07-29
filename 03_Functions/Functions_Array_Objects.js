@@ -21,7 +21,7 @@ handleObject({
 });
 
 const myNewArray = [200, 400, 500, 700];
-function returnSecondValue(getArray) {
-  return getArray[1];
+function returnSecondValue(myNewArray) {
+  return myNewArray[1];
 }
 console.log(returnSecondValue(myNewArray));

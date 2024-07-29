@@ -5,7 +5,7 @@ const Aus_heros = ["Smith", "Warner", "Maxi"];
 // console.log(Indian_heros);
 
 const all_heros = Indian_heros.concat(Aus_heros);
-// console.log(all_heros);
+console.log(all_heros);
 
 const all_new_heros = [...Indian_heros, ...Aus_heros];
 console.log(all_new_heros);

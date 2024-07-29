@@ -4,7 +4,7 @@ tinderUser.id = "1245465485";
 tinderUser.name = "Sandi";
 tinderUser.isloggedin = false;
 
-// console.log(tinderUser);
+console.log(tinderUser);
 
 const regularUser = {
   email: "SandipanPasari@gmail.com",
