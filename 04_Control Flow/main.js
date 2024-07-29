@@ -60,7 +60,7 @@ switch (month) {
   case 3:
     console.log("March");
     break;
-default:
+  default:
     console.log("Dec");
     break;
 }
