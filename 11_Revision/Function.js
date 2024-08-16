@@ -48,7 +48,7 @@
 // countV("Hello Abbbc");
 
 // let arr1 = ["physics", "chem", "maths"];
-// arr.forEach((val) => {
+// arr1.forEach((val) => {
 //   console.log(val.toUpperCase());
 // });
 
