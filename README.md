@@ -1,4 +1,4 @@
-# Chai-Aur-JavaScript
+# JavaScript
 
 Welcome to my public repository for JavaScript! This repo contains a collection of diverse projects, code snippets, and useful utilities that I've developed. Whether you're a beginner looking to learn the basics or an experienced developer seeking inspiration, you'll find valuable resources here.
 
